@@ -10,9 +10,7 @@
     <version>2.7</version>
     <infourl title="Template Switcher">https://github.com/AndNovAtor/templateswitcher</infourl>
     <downloads>
-      <downloadurl type="full" format="zip">
-          https://github.com/AndNovAtor/templateswitcher/releases/download/2.7/plg_system_templateswitcher-2.7.zip
-      </downloadurl>
+      <downloadurl type="full" format="zip">https://github.com/AndNovAtor/templateswitcher/releases/download/2.7/plg_system_templateswitcher-2.7.zip</downloadurl>
     </downloads>
     <maintainer>Andrey Novikov</maintainer>
     <maintainerurl>https://github.com/AndNovAtor</maintainerurl>
