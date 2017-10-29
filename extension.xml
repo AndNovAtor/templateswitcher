@@ -1,6 +1,6 @@
 <updates>
   <update>
-    <name>System - Template Switcher</name>
+    <name>plg_system_templateswitcher</name>
     <description>
         Плагин переключения шаблона c очисткой некоторого кэша
     </description>
