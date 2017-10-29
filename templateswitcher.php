@@ -1,7 +1,7 @@
 <?php
 /**
- * @copyright   Modified by: A.Novikov, 2017. Original: Copyleft (C) 2014 Ilhom666, Inc. All rights reserved.
- * @license     GNU General Public License version 3 or later
+ * @copyright   A.Novikov, 2017
+ * @license     MIT
 */
 
 // no direct access
@@ -21,7 +21,6 @@ class PlgSystemTemplateSwitcher extends JPlugin {
         $template_cookie_var_name = 'current_template_name';
         if ( $template_input !== '' ) {
             // Clean cache "on template changed" only
-            // TODO: think about what cache needs to be cleaned
             JFactory::getCache('com_content')->clean();
             JFactory::getCache('com_contact')->clean();
             JFactory::getCache('com_search')->clean();
@@ -41,7 +40,5 @@ class PlgSystemTemplateSwitcher extends JPlugin {
         }
     }
 }
-
-
 
 ?>
