@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0.0" type="plugin" group="system" method="upgrade">
+    <name>System - Template Switcher</name>
+    <author>Andrey Novikov</author>
+    <creationDate>4 August 2017</creationDate>
+    <copyright>Copyright (C) 2017 Andrey Novikov</copyright>
+    <license>MIT</license>
+    <version>2.7</version>
+    <description>Плагин переключения шаблона c очисткой некоторого кэша</description>
+    <files>
+        <filename plugin="templateswitcher">templateswitcher.php</filename>
+    </files>
+    <updateservers>
+      <server type="extension" name="Template Switcher Updates">https://raw.githubusercontent.com/AndNovAtor/templateswitcher/master/extension.xml</server>
+    </updateservers>
+</extension>
