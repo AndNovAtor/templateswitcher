@@ -1,4 +1,4 @@
-Joomla! 3.x plugin for change template and save "template state" for a site
+Joomla! 4.x plugin for change template and save "template state" for a site
 ========================================
 
 by [Andrey Novikov](https://github.com/AndNovAtor)
